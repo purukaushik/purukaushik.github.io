@@ -174,3 +174,8 @@ h3 {
         text-align: center;
     }
 }
+
+div .firamono {
+    font-family: 'Fira Mono', monospace;
+    font-size: 45px;
+}
