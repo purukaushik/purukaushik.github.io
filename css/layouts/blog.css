@@ -176,6 +176,14 @@ h3 {
 }
 
 div .firamono {
-    font-family: 'Fira Mono', monospace;
+    font-family: 'Fira Mono', serif;
     font-size: 45px;
+}
+div .firasmall {
+    font-family: 'Fira Sans', serif;
+    font-size: 25px
+}
+h2 .firah2 {
+    font-family: 'Fira Sans', serif;
+    font-size: 35px
 }
